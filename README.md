@@ -2,7 +2,11 @@
 
 La idea de este sitio es recopilar los mejores momentos de nuestro recorrido por el CDP 2020.
 
+# Tecnologías que usamos
+
 El proyecto está desarrollado con [Gatsby JS](https://www.gatsbyjs.com/) un framework de React Open Source. Y el template de 'starter' está basado en [Gatsby Starter Stellar](https://www.gatsbyjs.com/starters/codebushi/gatsby-starter-stellar).
+
+## Pasos para contribuir al desarrollo
 
 Para utilizar Gatsby podés instalar gatsby-cli de forma global:
 
@@ -20,4 +24,5 @@ El sitio se podrá ver en [localhost:8000](http://localhost:8000) mientras edite
 
 Los cambios realizados en la rama 'main' de este repositorio se reflejan en [cdp-fg.netlify.app](https://cdp-fg.netlify.app/), y los de la rama 'dev' en [dev-cdp-fg.netlify.app](https://dev-cdp-fg.netlify.app/).
 
+# Canales de comunicación
 Para contactarte con lxs admins de este proyecto, [sumate a nuestro canal de telegram](https://t.me/CineDebatePandemia).
